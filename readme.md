@@ -1,6 +1,7 @@
 # UItoTop jQuery Plugin
 
 https://github.com/knagurski/UItoTop-jQuery-Plugin
+
 Original by Matt Verone http://www.mattvarone.com/web-design/uitotop-jquery-plugin/  
 
 Ver 2.0
