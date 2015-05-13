@@ -1,0 +1,31 @@
+{
+  "name": "UItoTop-jQuery-Plugin",
+  "version": "2.0.0",
+  "description": "Small jQuery plugin to allow smooth \\\"back to top\\\" scrolling. Port of http://www.mattvarone.com/web-design/uitotop-jquery-plugin/",
+  "main": "dist/jquery.ui.totop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "gulp install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://knagurski@github.com/knagurski/UItoTop-jQuery-Plugin.git"
+  },
+  "author": "Kevin Nagurski <knagurski@gmail.com>",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/knagurski/UItoTop-jQuery-Plugin/issues"
+  },
+  "homepage": "https://github.com/knagurski/UItoTop-jQuery-Plugin",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {
+    "gulp-bower": "0.0.10",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uglifycss": "^1.0.4",
+    "gulp-imagemin": "^2.2.1"
+  }
+}
